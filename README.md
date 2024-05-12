@@ -7,8 +7,6 @@ A repository for featured code solutions from "Forest Adventure" game
 
 [:video_game: **Play**](https://yankeezulu.itch.io/forest-adventure)
 
-[:100: **Best сode practices**](#best-сode-practices-in-this-project)
-
 ## About the game
 Genre: Action RPG
 
