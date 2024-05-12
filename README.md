@@ -1,2 +1,2 @@
 # ForestAdventure
-A repository for featured solutions from "Forest Adventure" game
+A repository for featured code solutions from "Forest Adventure" game
