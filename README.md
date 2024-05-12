@@ -1,4 +1,4 @@
-# ForestAdventure
+# Forest Adventure
 A repository for featured code solutions from "Forest Adventure" game
 
 [:camera: **See Screenshots**](#screenshots)
