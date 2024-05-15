@@ -1,6 +1,7 @@
 # Forest Adventure
 A repository for featured code solutions from "Forest Adventure" game
-*The code will be available tater*
+
+*The code will be available later*
 
 [:camera: **See Screenshots**](#screenshots)
 
